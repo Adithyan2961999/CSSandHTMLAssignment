@@ -1,0 +1,167 @@
+body{
+    padding-top: 90px;
+}
+#page{
+    width: 960px;
+    margin: 0 auto;
+}
+#header{
+    width: 100%;
+    margin: 0 auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: white;
+}
+ul{
+    height: 50px;
+}
+
+li{
+    display: inline-block;
+    padding: 0 15px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+
+}
+#list{
+    text-align: center;
+    
+}
+li:hover{
+    color: tomato;
+}
+body{
+    background-image: url(./Images/Vector-1.png);
+}
+#main{
+    width: 55%;
+    float: left;
+    margin-right: 5%;
+}
+#sidebar{
+    width: 40%;
+    float: right;
+    border: black;
+}
+#location{
+    clear: both;
+}
+#sen{
+    text-align: center;
+}
+#message{
+    text-align: center;
+}
+form{
+    background-color: rgb(255, 255, 255);
+    width: 450px;
+    padding: 30px;
+    margin: auto;
+}
+input{
+    width: 100%;
+    height: 40px;
+}
+#check{
+    width: 15px
+}
+#submit{
+    background-color:orangered;
+    color: white;
+    
+}
+#submit:hover{
+    background-color:white;
+    color: orangered;
+}
+#office{
+    text-align: center;
+}
+#first{
+    float: left;
+    margin-right: 5%;
+    width: 30%;
+}
+#second{
+    float: left;
+    margin-right: 5%;
+    width: 30%;
+}
+#third{
+    float: left;
+    width: 30%;
+}
+#fourth{
+    float: left;
+    margin-right: 5%;
+    width: 30%;
+}
+#fifth{
+    float: left;
+    margin-right: 5%;
+    width: 30%;
+}
+#followus{
+    clear: both;
+    color: slategray;
+    text-align: center;
+}
+ 
+#Company{
+    float: right;
+    margin-left: 5%;
+}  
+#support{
+    float: right;
+    margin-left: 5%;
+}  
+#products{
+    float: right;
+} 
+#account{
+    float: right;
+    margin-left: 5%;
+} 
+#resources{
+    float: right;
+    margin-left: 5%;
+} 
+#solutions{
+    float: right;
+    
+}  
+#footer{
+    clear: both;
+    text-align: center;
+}  
+#copy{
+    color: slategrey;
+}
+#pri{
+    color: orangered;
+}
+#coo{
+    color: orangered;
+}
+#ter{
+    color: orangered;
+}
+#pri:hover{
+    color: brown;
+}
+#coo:hover{
+    color: brown;
+}
+#ter{
+    color: brown;
+}
+#get{
+    color: orangered;
+}
+#chati{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
